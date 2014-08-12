@@ -1,4 +1,5 @@
 1.0.0
+==========
 
 First draft of the palindrome application.
 
